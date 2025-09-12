@@ -1,6 +1,5 @@
 package studentidcheak;
 
-
 import java.util.Scanner;
 
 public class StudentIDCheck {
